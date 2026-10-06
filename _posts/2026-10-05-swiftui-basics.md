@@ -52,5 +52,12 @@ Hstack also supports alignment. It specifies how views within the HStack should 
 - lastTextBaseLine
 - top
 
+```
+HStack (alignment: .bottom)
+```
+
 Now if you want the entire Hstack to be at the top of the screen, then you need a frame()
 
+
+
+&nbsp;
