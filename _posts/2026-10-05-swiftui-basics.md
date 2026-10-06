@@ -44,3 +44,13 @@ Vstack and Hstack can be used simulateniously
 
 ![](/assets/images/swift_4.png){:height="300px"}
 
+Hstack also supports alignment. It specifies how views within the HStack should be aligned
+
+- bottom
+- center
+- firstTextBaseLine
+- lastTextBaseLine
+- top
+
+Now if you want the entire Hstack to be at the top of the screen, then you need a frame()
+
