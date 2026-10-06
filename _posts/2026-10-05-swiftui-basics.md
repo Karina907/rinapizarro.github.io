@@ -40,3 +40,7 @@ var body: some View {
 
 ![](/assets/images/swift_3.png){:height="300px"}
 
+Vstack and Hstack can be used simulateniously
+
+![](/assets/images/swift_4.png){:height="300px"}
+
