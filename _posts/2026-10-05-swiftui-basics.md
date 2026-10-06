@@ -26,7 +26,9 @@ description: This post will cover the basics of SwiftUI
 var body: some View {
      t:String = "Hello Hommies"
      return t.font(
-          .largeTitle) // regular convention
+          .largeTitle)
+          .bold()
+          .foregroundColor(.red) // regular convention
 }
 ```
 
