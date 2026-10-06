@@ -14,3 +14,5 @@ The TextField is a view that takes user input in an input field. It allows the u
 - There are also State variables. State variables are variables that can be managed locally and contain mutable data with a view. This is important because views are immutable and cannot change their values. However, @State wrapper tells Swift to move the variable's memory storage outside the structure. This basically means that a variable can be changed at runtime. 
 - The state variables are bound to the TextField object. As the user updated the TextField, the state variable will also be updated.
 
+### Secure Field
+
