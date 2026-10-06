@@ -32,3 +32,9 @@ var body: some View {
 }
 ```
 
+### Stacks
+
+- Vstack --> vertical
+- HStack --> horizontal 
+- ZStack --> depth-based stack
+
