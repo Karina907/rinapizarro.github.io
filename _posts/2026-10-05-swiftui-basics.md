@@ -18,7 +18,7 @@ description: This post will cover the basics of SwiftUI
 
 
 
-![](/assets/images/swift_2.png)
+![](/assets/images/swift_2.png){:height="300px"}
 
 {:height="300px"}
 
@@ -37,4 +37,6 @@ var body: some View {
 - Vstack --> vertical
 - HStack --> horizontal 
 - ZStack --> depth-based stack
+
+![](/assets/images/swift_3.png){:height="300px"}
 
