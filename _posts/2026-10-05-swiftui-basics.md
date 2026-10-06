@@ -12,3 +12,19 @@ description: This post will cover the basics of SwiftUI
 
 ![](/assets/images/swift_1.png){:height="300px"}
 
+### Modifiers
+
+- Modifiers are a function that that you apply to a view or the output of another modifier. For example, the modifier .largeTitle belongs to the Front class. In the example below, we have transformed our preceeding code to include the modifier.
+
+
+
+![](/assets/images/swift_2.png)
+
+{:height="300px"}
+
+```
+var body: some View {
+     t:String = "Hello Hommies"
+     return t.font(.largeTitle)
+```
+
